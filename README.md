@@ -1,2 +1,4 @@
-# NeoSF2-Sounds-Template
-NeoSF2音色库模板。Template of NeoSF2 Sounds.
+# SimonePiervergili-VoiceOohs
+Male Voice Oohs samples by Simone Piervergili. Contains three different layers.
+
+General MIDI Instrument: #54.

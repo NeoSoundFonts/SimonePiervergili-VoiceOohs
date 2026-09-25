@@ -1,0 +1,159 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : SP Voice Oohs.sf2
+// Author    : Simone Piervergili
+// Copyright : Libre
+// Date      : 2026/09/25
+// Comment   : 
+
+<group>
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_release=1
+loop_mode=loop_continuous
+volume=-2.382
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Voice Oohs b2 rr1.wav
+volume=3
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=123787
+loop_start=102350
+loop_end=112434
+
+<region>
+sample=samples\Voice Oohs g3 rr1.wav
+volume=3
+lokey=48 hikey=55
+pitch_keycenter=55
+offset=0
+end=163348
+loop_start=131592
+loop_end=144954
+
+<region>
+sample=samples\Voice Oohs d4 rr1.wav
+volume=3
+lokey=56 hikey=64
+pitch_keycenter=62
+offset=0
+end=146274
+loop_start=118878
+loop_end=130614
+
+<region>
+sample=samples\Voice Oohs a4 rr1.wav
+volume=3
+lokey=65 hikey=127
+pitch_keycenter=69
+offset=0
+end=136238
+loop_start=120773
+loop_end=131762
+
+<group>
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_release=1
+loop_mode=loop_continuous
+volume=-2.382
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Voice Oohs b2 rr2.wav
+volume=3
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=136662
+loop_start=111348
+loop_end=122586
+
+<region>
+sample=samples\Voice Oohs g3 rr2.wav
+volume=3
+lokey=48 hikey=55
+pitch_keycenter=55
+offset=0
+end=179486
+loop_start=161371
+loop_end=175983
+
+<region>
+sample=samples\Voice Oohs d4 rr2.wav
+volume=3
+lokey=56 hikey=64
+pitch_keycenter=62
+offset=0
+end=186743
+loop_start=144467
+loop_end=159439
+
+<region>
+sample=samples\Voice Oohs a4 rr2.wav
+volume=3
+lokey=65 hikey=127
+pitch_keycenter=69
+offset=0
+end=161913
+loop_start=136156
+loop_end=149222
+
+<group>
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_release=1
+loop_mode=loop_continuous
+volume=-2.382
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Voice Oohs b2 rr3.wav
+volume=3
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=138786
+loop_start=125579
+loop_end=136781
+
+<region>
+sample=samples\Voice Oohs g3 rr3.wav
+volume=3
+lokey=48 hikey=55
+pitch_keycenter=55
+offset=0
+end=160586
+loop_start=137150
+loop_end=150280
+
+<region>
+sample=samples\Voice Oohs d4 rr3.wav
+volume=3
+lokey=56 hikey=64
+pitch_keycenter=62
+offset=0
+end=177403
+loop_start=133458
+loop_end=147792
+
+<region>
+sample=samples\Voice Oohs a4 rr3.wav
+volume=3
+lokey=65 hikey=127
+pitch_keycenter=69
+offset=0
+end=160065
+loop_start=121609
+loop_end=134515
